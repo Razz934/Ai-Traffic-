@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hammad\\Downloads\\AI Traffic Simulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72917487-8498-9263-F8AC-1D7CE2026AEA}|Assembly-CSharp-Editor.csproj|c:\\users\\hammad\\downloads\\ai traffic simulation\\assets\\scripts\\editor\\editorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72917487-8498-9263-F8AC-1D7CE2026AEA}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\editorhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72917487-8498-9263-F8AC-1D7CE2026AEA}|Assembly-CSharp-Editor.csproj|c:\\users\\hammad\\downloads\\ai traffic simulation\\assets\\scripts\\editor\\intersectioneditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72917487-8498-9263-F8AC-1D7CE2026AEA}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\intersectioneditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72917487-8498-9263-F8AC-1D7CE2026AEA}|Assembly-CSharp-Editor.csproj|c:\\users\\hammad\\downloads\\ai traffic simulation\\assets\\scripts\\editor\\trafficeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72917487-8498-9263-F8AC-1D7CE2026AEA}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\trafficeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72917487-8498-9263-F8AC-1D7CE2026AEA}|Assembly-CSharp-Editor.csproj|c:\\users\\hammad\\downloads\\ai traffic simulation\\assets\\scripts\\editor\\trafficeditorinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72917487-8498-9263-F8AC-1D7CE2026AEA}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\trafficeditorinspector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72917487-8498-9263-F8AC-1D7CE2026AEA}|Assembly-CSharp-Editor.csproj|c:\\users\\hammad\\downloads\\ai traffic simulation\\assets\\scripts\\editor\\trafficsystemgizmos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72917487-8498-9263-F8AC-1D7CE2026AEA}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\trafficsystemgizmos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72917487-8498-9263-F8AC-1D7CE2026AEA}|Assembly-CSharp-Editor.csproj|c:\\users\\hammad\\downloads\\ai traffic simulation\\assets\\scripts\\editor\\vehicleeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72917487-8498-9263-F8AC-1D7CE2026AEA}|Assembly-CSharp-Editor.csproj|solutionrelative:assets\\scripts\\editor\\vehicleeditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehicleEditor.cs",
+              "DocumentMoniker": "C:\\Users\\Hammad\\Downloads\\AI Traffic Simulation\\Assets\\Scripts\\Editor\\VehicleEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\VehicleEditor.cs",
+              "ToolTip": "C:\\Users\\Hammad\\Downloads\\AI Traffic Simulation\\Assets\\Scripts\\Editor\\VehicleEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\VehicleEditor.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:53:44.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrafficSystemGizmos.cs",
+              "DocumentMoniker": "C:\\Users\\Hammad\\Downloads\\AI Traffic Simulation\\Assets\\Scripts\\Editor\\TrafficSystemGizmos.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\TrafficSystemGizmos.cs",
+              "ToolTip": "C:\\Users\\Hammad\\Downloads\\AI Traffic Simulation\\Assets\\Scripts\\Editor\\TrafficSystemGizmos.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\TrafficSystemGizmos.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAuwGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:53:39.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TrafficEditorInspector.cs",
+              "DocumentMoniker": "C:\\Users\\Hammad\\Downloads\\AI Traffic Simulation\\Assets\\Scripts\\Editor\\TrafficEditorInspector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\TrafficEditorInspector.cs",
+              "ToolTip": "C:\\Users\\Hammad\\Downloads\\AI Traffic Simulation\\Assets\\Scripts\\Editor\\TrafficEditorInspector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\TrafficEditorInspector.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:53:36.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrafficEditor.cs",
+              "DocumentMoniker": "C:\\Users\\Hammad\\Downloads\\AI Traffic Simulation\\Assets\\Scripts\\Editor\\TrafficEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\TrafficEditor.cs",
+              "ToolTip": "C:\\Users\\Hammad\\Downloads\\AI Traffic Simulation\\Assets\\Scripts\\Editor\\TrafficEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\TrafficEditor.cs",
+              "ViewState": "AQIAAOgAAAAAAAAAAAAAwAQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:53:32.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IntersectionEditor.cs",
+              "DocumentMoniker": "C:\\Users\\Hammad\\Downloads\\AI Traffic Simulation\\Assets\\Scripts\\Editor\\IntersectionEditor.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\IntersectionEditor.cs",
+              "ToolTip": "C:\\Users\\Hammad\\Downloads\\AI Traffic Simulation\\Assets\\Scripts\\Editor\\IntersectionEditor.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\IntersectionEditor.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAADwvygAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:53:31.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EditorHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Hammad\\Downloads\\AI Traffic Simulation\\Assets\\Scripts\\Editor\\EditorHelper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Editor\\EditorHelper.cs",
+              "ToolTip": "C:\\Users\\Hammad\\Downloads\\AI Traffic Simulation\\Assets\\Scripts\\Editor\\EditorHelper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Editor\\EditorHelper.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T09:53:28.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
